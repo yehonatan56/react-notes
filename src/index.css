@@ -1,0 +1,8 @@
+#list-ul{
+  width: 20%;
+  float: right;
+  background-color: gray;
+  min-height: 60px;
+  top: 10px;
+  list-style-type: square;
+}
